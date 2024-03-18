@@ -5,6 +5,6 @@ from django.urls import path,include
 
 urlpatterns = [
 
-    path('', include('emp.ulrs')),
+    path('', include('emp.urls')),
    
 ]
